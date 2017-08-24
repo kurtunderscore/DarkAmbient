@@ -1,2 +1,2 @@
 # DarkAmbient
-A dark ambient music composition (in-progress) that is being programmed using the Supercollider synthesis engine
+A dark ambient music composition (in-progress) that is being programmed using the Supercollider
